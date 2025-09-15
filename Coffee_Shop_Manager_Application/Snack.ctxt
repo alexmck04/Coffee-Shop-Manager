@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Snack
+comment1.params=name\ price\ type
+comment1.target=Snack(java.lang.String,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=type
+comment3.target=void\ setType(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
